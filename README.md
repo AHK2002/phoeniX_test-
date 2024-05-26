@@ -12,7 +12,7 @@ golnaz jalvandi
 7. j loop: Jump back to the start of the loop.
 8. end_loop: End of the loop.
 9. sub a0, t0, x0: Store the final guess (integer square root) in a0.
-10. ebreak: Exit the program.
+10. ebreak: Exit the program..
 
 ## Note
 
