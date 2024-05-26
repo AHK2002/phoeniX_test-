@@ -1,6 +1,6 @@
 #question  2 Amirhossein karami mahdi mohammadi golnaz jalvandi
 # Load argument (value whose square root is to be found)
-addi a0, x0, 64
+addi a0, x0, 25
 
 # Initialize variables
 li t0, 1         # Initialize guess to 1
